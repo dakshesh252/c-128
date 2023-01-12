@@ -1,0 +1,38 @@
+body{
+    background-size: 1400px;
+    text-align: center;
+}
+
+.heading{
+    background-color:#ffd781 ;
+    width: 100%;
+    margin-top: 0px;
+    height: 120px;
+    font-size: 43px ;
+    text-align: center;
+    color: #20297c;
+    font-family: 'Rubik Bubbles', cursive;
+}
+
+#song_playing{
+    color: white;
+    font-family:'Rubik Bubbles', cursive ;
+  margin-left: 590px;
+  height: 40px;
+    background-color:#59aa9e;
+    border-radius: 1%;
+    width:500px;
+}
+
+.note{
+    font-size: 25px;
+    font-family: 'Fredoka One', cursive;
+    color: black;
+}
+
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 80px;
+}
